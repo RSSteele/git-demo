@@ -3,4 +3,5 @@
 This is the first file in this repository.
 
 ## Website contents
-	index.html
+Here are a few files in the website:
+1. index.html
